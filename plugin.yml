@@ -1,0 +1,13 @@
+name: TevoBorderline
+description: Borderline game plugin.
+author: Thrusmyster
+main: com.tevonetwork.tevoborderline.TevoBorderline
+version: ALPHA 1.1.1
+depend: [TevoAPI, LibsDisguises]
+website: http://www.tevonetwork.com
+commands:
+    game:
+        description: Game command
+    leave:
+        description: leave the game
+        aliases: [hub, lobby]
